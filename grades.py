@@ -9,7 +9,7 @@ students = [
 
 # Start Of Code.
 print('\t\tStudents Grades')
-print('*' * 31)
+print('*' * 60)
 print("Name\t\tGrade\t\tDegree")
 for name, grade in students:
 
